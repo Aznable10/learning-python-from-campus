@@ -1,1 +1,1 @@
-# learning-python-frolm-campus
+# learning-python-from-campus
